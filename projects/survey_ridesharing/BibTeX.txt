@@ -1,0 +1,16 @@
+@article{沈弼龙:34,
+author = {沈弼龙,赵颖,黄艳,郑纬民},
+title = {大数据背景下动态共乘的研究进展},
+publisher = {计算机研究与发展},
+year = {2017},
+journal = {计算机研究与发展},
+volume = {54},
+number = {1},
+eid = {34},
+numpages = {15},
+pages = {34},
+keywords = {共乘;动态共乘;大数据;优化算法;城市计算},
+url = {http://crad.ict.ac.cn/CN/abstract/article_3335.shtml},
+doi = {10.7544/issn1000-1239.2017.20150729}
+}    
+
